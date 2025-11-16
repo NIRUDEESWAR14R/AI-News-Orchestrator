@@ -124,13 +124,12 @@ streamlit run app/main.py
 
 ---
 
-## 🤝 Contributing
-
-Pull requests are welcome!  
-Feel free to suggest improvements or new features.
-
----
-
-## 📄 License
-
-MIT License © 2025
+## 👨‍💻 Developer
+ 
+  Nirudeeswar R
+ 
+ 📍 Chennai
+ 
+ 🎓 B.Tech CSE
+ 
+ 📧 nirudeeswarr14@gmail.com
