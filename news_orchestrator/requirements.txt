@@ -1,0 +1,8 @@
+streamlit
+requests
+python-dateutil
+dateparser
+spacy
+sentence-transformers
+openai
+python-dotenv
